@@ -1,6 +1,8 @@
 # My First Repo
 
-**Name**: Derensh Pandian
-**NPM**: 2306256311
-**Class**: PBP KKI
+Name: Darren
+NPM: 2201234567
+Class: PBP KKI
+Hobby: Coding
+
 
